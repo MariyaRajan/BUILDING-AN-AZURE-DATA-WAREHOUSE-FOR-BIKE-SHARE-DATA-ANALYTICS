@@ -43,3 +43,8 @@ Key Concepts Demonstrated:
     External tables
     CETAS-based transformations
     Cloud-based data warehousing
+
+   ## References
+This project was developed as part of the Stream Training program, with guidance and reference from Udacity's course materials on *Azure Data Services*.
+
+
